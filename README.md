@@ -8,10 +8,11 @@
 8. Parts that are not "essential" for building a computer like a keyboard and a mouse, etc.
 9. Mouse, keyboard and a printer.
 10.
- _____________________________________________________________________________
+
 |													  					      |
 |   Íhlutur   |   Tegund og specs    |    Kostnaður   |   Afgangur = 1327kr   |
-|_____________________________________________________________________________|
+|   -------   |   ---------------   |   -----------   |   -----------------   |
+|
 |   aflgjafi   |   Corsair RM650x Modular aflgjafi 80P Gold   |   17.996kr   |
 |   turnkassi   |   Corsair Carbide SPEC-ALPHA Hvítur/Rauður   |   20.696kr   |
 |   móðurborð   |   Asus Prime X299-A 2066 ATX   |   53.996kr   |

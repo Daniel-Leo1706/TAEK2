@@ -9,10 +9,8 @@
 9. Mouse, keyboard and a printer.
 10.
 
-|													  					      |
 |   Íhlutur   |   Tegund og specs    |    Kostnaður   |   Afgangur = 1327kr   |
 |   -------   |   ---------------   |   -----------   |   -----------------   |
-|
 |   aflgjafi   |   Corsair RM650x Modular aflgjafi 80P Gold   |   17.996kr   |
 |   turnkassi   |   Corsair Carbide SPEC-ALPHA Hvítur/Rauður   |   20.696kr   |
 |   móðurborð   |   Asus Prime X299-A 2066 ATX   |   53.996kr   |

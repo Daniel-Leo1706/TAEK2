@@ -13,7 +13,7 @@
 |   Íhlutur   |   Tegund og specs    |    Kostnaður   |   Afgangur = 1327kr   |
 |_____________________________________________________|_______________________|
 |   aflgjafi   |   Corsair RM650x Modular aflgjafi 80P Gold   |   17.996kr   |
-|   turnkassi   | Corsair Carbide SPEC-ALPHA Hvítur/Rauður   | 20.696kr   |
+|   turnkassi   |   Corsair Carbide SPEC-ALPHA Hvítur/Rauður   | 20.696kr   |
 |   móðurborð   |   Asus Prime X299-A 2066 ATX   |   53.996kr   |
 |   örgjafi   |   Intel Core i5-7600K 3.8GHz S1151 14nm 6MB(fylgir vifta með pakkningunum)   |   37.995kr   |
 |   kassaviftur   |   Corsair SP120 2 hljóðlátar PWM viftur saman í pakka   |   7.196kr   |
